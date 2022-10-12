@@ -3,9 +3,11 @@
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 I'm Laanaa from Indonesia, and I do Web Development, Backend Development, social media and leading projects. I really enjoy learning languages and frameworks like React, Node.Js, Express.js and Python, as well as work in Backend Development. I also enjoy programming on website, server and Mobile apps.
 
