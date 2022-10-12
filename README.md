@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there!👋, I'm Laanaa
 
+I'm Laanaa from Indonesia, and I do Web Development, Backend Development, social media and leading projects. I really enjoy learning languages and frameworks like React, Node.Js, Express.js and Python, as well as work in Backend Development. I also enjoy programming on website, server and Mobile apps.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laanaa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Laanaa/Laanaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
