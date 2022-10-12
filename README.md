@@ -1,4 +1,4 @@
-# Hi there!👋 I'm Laanaa ![](https://komarev.com/ghpvc/?username=dafaathaillah&color=4c71f2)
+# Hi there!👋 I'm Maulana Malik ![](https://komarev.com/ghpvc/?username=dafaathaillah&color=4c71f2)
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -9,7 +9,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![node.js](https://img.shields.io/badge/-node.js-05122A?style=flat&logo=node.js)&nbsp;
 
-I'm Laanaa from Indonesia, and I do Web Development, Backend Development, social media and leading projects. I really enjoy learning languages and frameworks like React, Node.Js, Express.js and Python, as well as work in Backend Development. I also enjoy programming on website, server and Mobile apps.
+I'm Maulana Malik from Indonesia, and I do Web Development, Backend Development, social media and leading projects. I really enjoy learning languages and frameworks like React, Node.Js, Express.js and Python, as well as work in Backend Development. I also enjoy programming on website, server and Mobile apps.
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Laanaa&theme=algolia" alt="dafaathaillah"  /></p>
 <hr>
