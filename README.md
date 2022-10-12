@@ -2,8 +2,8 @@
 
 I'm Laanaa from Indonesia, and I do Web Development, Backend Development, social media and leading projects. I really enjoy learning languages and frameworks like React, Node.Js, Express.js and Python, as well as work in Backend Development. I also enjoy programming on website, server and Mobile apps.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laanaa&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laanaa&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laanaa&show_icons=true&theme=dark)
 
 ## Skill & Experience
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,java,nodejs,laravel,mysql,postgres,docker,androidstudio,bootstrap,cpp,vscode,py&theme=light&perline=8)](https://skillicons.dev)
