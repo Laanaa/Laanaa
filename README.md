@@ -1,8 +1,10 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice too see you. ![](https://komarev.com/ghpvc/?username=dafaathaillah&color=4c71f2)
 
 <p>Welcome to my page! 👋 </br> I'm Maulana, Backend developer from <img src="https://flagcdn.com/16x12/id.png" width="13" alt="Indonesia Flag"/> <b>Jakarta, Indonesia</b>, currently living in <img src="https://flagcdn.com/16x12/id.png" width="13" alt="Indonesia Flag"/> <b>Jakarta, Indonesia</b>. </p>
+<hr>
 
-### 🛠 Things I code with
+🛠 Things I code with
+<br>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -15,11 +17,14 @@
 <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-49728B?style=flat-square&logo=jenkins&logoColor=white" />
+<img alt="Dbeaver" src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" />
 </p>
 
 <hr>
@@ -28,8 +33,10 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Laanaa&theme=tokyonight" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laanaa&show_icons=true&locale=en&layout=compact&theme=blueberry" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Laanaa&show_icons=true&locale=en&theme=blueberry&rank_icon=github" width="410" /></p><br><br><br><br><br>
+<hr>
 
-## Where to find me
+📱 Where to find me
+<br>
 <p align="left">
 <a href="mailto:maulanamalik.work@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
